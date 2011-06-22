@@ -1,0 +1,77 @@
+10
+
+dir
+0
+file:///Users/schwa/Desktop/consulting/consulting/WebViewBridge
+file:///Users/schwa/Desktop/consulting
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+223b41c3-121e-41ef-a9ff-a8577c805d90
+
+main.m
+file
+
+
+
+add
+
+WebViewBridge.xcodeproj
+dir
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+WebViewBridge-Info.plist
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+WebViewBridge_Prefix.pch
+file
+
+
+
+add
+
+Classes
+dir
+
+
+
+add
+
